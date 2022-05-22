@@ -1,0 +1,10 @@
+.banner {
+	background-image: url("../images/banner backround.png");
+	background-size: cover;     
+	background-position: center;
+	padding: 150px 0px;
+}
+ .intro {
+ 	font-size: 40px;
+ 	font-weight: bold;
+ }

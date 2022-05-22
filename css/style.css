@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Koulen&display=swap");
+
+@import url("avatar.css");
+@import url("container.css");
+@import url("button.css");
+@import url("banner.css");
+@import url("card.css");
+
+body {
+	font-family: Courier, monospace; 
+	font-size: 16px ;
+	margin: 0px;
+}
+
+h1,h2,h3 {
+	font-family: 'Koulen' ;
+	color: #570A57;
+
+}
+
+h1 {
+	font-size:  60px;
+}

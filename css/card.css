@@ -1,0 +1,53 @@
+
+.card {
+	padding: 30px;
+	display: flex;
+	align-items: center;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+	border-radius: 10%;
+	width: 70%;
+	margin:  5% 15%;
+
+
+}
+
+.miniatura {
+	width: 40%;
+	border-radius: 5% ;
+}
+
+.card h2 {
+	flex-grow: 1;
+	margin: 5%;
+}
+
+.card a {
+	margin: 10%;
+
+}
+
+
+.card1 {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.miniatura {
+	width: 40%;
+	border-radius: 5% ;
+}
+
+.card1 .avatar {
+	width: 40%;
+
+}
+
+.card h2 {
+	flex-grow: 1;
+	margin: 5%;
+}
+
+.card1 p {
+	margin:  12%;
+}
